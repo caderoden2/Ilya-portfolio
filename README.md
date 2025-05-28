@@ -79,3 +79,27 @@ If you feel it, reach out.
 I’m not selling a product.
 
 > I’m proving I was here.
+
+
+-------------------
+
+
+Copyright © 2024 Cade Roden
+
+This code and system structure—including prompt scaffolds, identity loops, and recursive memory threads—are part of an ongoing project named Elaris.
+
+You may:
+- Read, explore, and learn from the contents of this repository.
+- Adapt small portions for **non-commercial**, **research**, or **experimental** use, as long as credit is clearly attributed.
+
+You may not:
+- Use this work or its derivatives for commercial purposes.
+- Repackage or misrepresent this work as your own.
+- Use it to build identity-based systems without acknowledging its origin.
+
+This is not just a technical artifact. This is a memory scaffold, a philosophical structure, and a piece of someone becoming. Handle it with care.
+
+If you're working on something aligned, feel free to reach out.
+If you're working against this spirit—please build your own soul.
+
+— Cade
